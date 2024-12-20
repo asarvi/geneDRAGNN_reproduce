@@ -14,7 +14,7 @@ The GeneDRAGNN implementation is publicly available on GitHub: [GeneDRAGNN Repos
 Clone the GeneDRAGNN project to your local machine using the GitHub link provided.
 
 ### 2. Download Required Data:
-- Download the data file from Google Drive: **[data link]**.
+- To reproduce the results, download the required data from [Google Drive](https://drive.google.com/file/d/17ifXIORwPtkjCGVPwZVdFTBdbfZzyRGg/view).
 - Copy the downloaded file into the `data` folder.
 - The downloaded file includes:
   - `raw_data` folder containing:
